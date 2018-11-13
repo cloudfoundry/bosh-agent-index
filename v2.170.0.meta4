@@ -1,0 +1,40 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.170.0-linux-amd64">
+    <hash type="sha-512">7813c330bad523641d8b82576d0743d10f1b19084440809a5b127824846fe07bf6d907c78a5786378e9b81c1620e56261ce9b9188751389b888bb373acc17e20</hash>
+    <hash type="sha-256">c2b8647ca7845f2d8a7307839433a3f4c4cf54696ee8ecfb2079274cb69d521c</hash>
+    <hash type="sha-1">bb20ac6580e2683137a63935c43805ecbbfaccd9</hash>
+    <hash type="md5">a2e4e5f7e12bb9dc54c730826bb7a2e6</hash>
+    <size>16038474</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.170.0-linux-amd64</url>
+    <version>2.170.0</version>
+  </file>
+  <file name="bosh-agent-2.170.0-go-1.8-linux-amd64">
+    <hash type="sha-512">5b61000c8c93e771a84b991657f81c3023f9d0bb58c6554b071d25ae69b5d300a87d3913442fe6a6dcaa1ff6276b481bbd20803e536f3ced9d58d4a8a2b28ebc</hash>
+    <hash type="sha-256">521b6b78cdfe7de36895fb37fd0a7418dba14434f211b8d8ffa2f931a848e122</hash>
+    <hash type="sha-1">5c8d6ed6877276bed4110cb8cf240d1eb387d129</hash>
+    <hash type="md5">0e90baa97178ffe871c2e3216eeec715</hash>
+    <size>16130651</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.170.0-go-1.8-linux-amd64</url>
+    <version>2.170.0</version>
+  </file>
+  <file name="bosh-agent-2.170.0-linux-ppc64le">
+    <hash type="sha-512">abf4dce9bc44dfdf3b6bbb7b80a4484f50e64fab72ed257b6615e39934d3a123d77c0a4d4e96f1ba1bbb1ccc25d7d2b4a624224e6264b1cf6dcdf7122ffc150d</hash>
+    <hash type="sha-256">4f320c043f804df8f241d8d34d440e5eb043adec7c3314787166e8595d09b085</hash>
+    <hash type="sha-1">036bdf11457e4146591bd24af747d5fec2c8c04c</hash>
+    <hash type="md5">8292406e26d9e40be390100ce5b36f90</hash>
+    <size>15423461</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.170.0-linux-ppc64le</url>
+    <version>2.170.0</version>
+  </file>
+  <file name="bosh-agent-2.170.0-go-1.8-linux-ppc64le">
+    <hash type="sha-512">70ffd484d6f4ae312e38751075f3f785c663b7178fbbda2a902ee68d434759dd982ef673f05fccc73ed23b7c7b2556d193032183958342427764655d58a0a64d</hash>
+    <hash type="sha-256">82d3d9bb952327f37d98fd12540069411ea18a57ec0b032d657da2e2d159a790</hash>
+    <hash type="sha-1">fd4da62680d58721f784a82f7226d300cbf51329</hash>
+    <hash type="md5">0a7db6f178b5cb9a9b59750007b3c9ce</hash>
+    <size>15636883</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.170.0-go-1.8-linux-ppc64le</url>
+    <version>2.170.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2018-11-13T19:27:23.878968532Z</published>
+</metalink>
