@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.279.0-linux-amd64">
+    <hash type="sha-512">fbf745277ecaca12f85e2ab082ea83017374fab64723e2ffc8950206feeeaf5b6115ed9aa06bb6b632b252b3af5a30459ebeace2627b72e6c5490ec5e5f6b158</hash>
+    <hash type="sha-256">8e6f1ae7f5d3b25c46331f5523f356b6c743ba6aafb295d9b48561abb3b093c9</hash>
+    <hash type="sha-1">52236ce9b4a06569600421e6832a4678714532b2</hash>
+    <hash type="md5">c2ce934ac97aabfb85e6d73c9483e431</hash>
+    <size>17787610</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.279.0-linux-amd64</url>
+    <version>2.279.0</version>
+  </file>
+  <file name="bosh-agent-2.279.0-linux-ppc64le">
+    <hash type="sha-512">484056a19fc86dec8aa0cebca5903d844b42b20e2145c853aa138f21ecaa9a41b898bc53a874ffc26e77c16eb05fe1926f5c73aefc88fb3be4592a7717a8acea</hash>
+    <hash type="sha-256">7af25a6ac4ca230e3d6f21f5d9f99eab88ce181edc53ae4d863fff9913eb9cf8</hash>
+    <hash type="sha-1">492e47a01b7a4b8aec093ba445ba4e46aec35815</hash>
+    <hash type="md5">3cc490f7b3c2aee8bbfb1c7d8bd3571d</hash>
+    <size>17120931</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.279.0-linux-ppc64le</url>
+    <version>2.279.0</version>
+  </file>
+  <file name="bosh-agent-2.279.0-windows-amd64.exe">
+    <hash type="sha-512">19c16e390cffcbf4570658751af36d23ede36d89bbee1f04d71338705207b85054ff3dd96be587969636721728693a639c6c2a89d11201f0a7f966f5ab106e19</hash>
+    <hash type="sha-256">387e614162ab3c1483427fb3b77e0c857bb0f2e849f06a262131d9cb3ad82f72</hash>
+    <hash type="sha-1">25af0de4089be6d25f3c23288ce836c25bdf5d06</hash>
+    <hash type="md5">88fb9dd57d24b33b78a0505035d99cbe</hash>
+    <size>17910784</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.279.0-windows-amd64.exe</url>
+    <version>2.279.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2019-11-19T00:04:38.075126674Z</published>
+</metalink>
