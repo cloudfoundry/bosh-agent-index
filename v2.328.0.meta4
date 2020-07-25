@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.328.0-linux-amd64">
+    <hash type="sha-512">48be7d51205af97cc904c42b8c2fccd76a1ad0ab0ee0fb49596c331e95a3f89b6b5e262b3e51dc67d347e219c6af1ae996d499defa7a878c42557a4a95464cc2</hash>
+    <hash type="sha-256">204d938137873421d25bbcd6808f332e6242e1352b51e70a0f8073393117b5a3</hash>
+    <hash type="sha-1">397e04ce8b22d964354d5ce315f51c45c1030be3</hash>
+    <hash type="md5">584bed11c3a0c680ce07d8ec8667ff41</hash>
+    <size>17651255</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.328.0-linux-amd64</url>
+    <version>2.328.0</version>
+  </file>
+  <file name="bosh-agent-2.328.0-windows-amd64.exe">
+    <hash type="sha-512">dcc8c670b468c48f28d9724e2ce00c5645214b0858acfae75d2a39968a649a9afdd747ed158218e593fa472310245179d48e4cc899d47da5b4e4b2c878fd6053</hash>
+    <hash type="sha-256">75b996d4f2ecb767e79bb359825faa57019efc2c9fa2f030e80bb31f08919c0f</hash>
+    <hash type="sha-1">8e2f32639df00ce7b17f07aa1a209c9b1afbcd9b</hash>
+    <hash type="md5">281c22b9e8ecb9e079f61c2e414dd1f4</hash>
+    <size>17703424</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.328.0-windows-amd64.exe</url>
+    <version>2.328.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.328.0-windows-amd64.exe">
+    <hash type="sha-512">9ca61bb6fd39a6f13b072ca8b9fe6315f6b59bcbbc2a06fc2265a255518cf766d1bfc179865788a523175103dc99af79aced847764bd0f14401f13a5d6730e3b</hash>
+    <hash type="sha-256">79bcfb1db347ad031c1eb56ac794ccf74b1eac33c8aa548b990188eff89217ca</hash>
+    <hash type="sha-1">c715073e343de8fff6542385e2f563d7e4b028f9</hash>
+    <hash type="md5">d79980b8493137e15e1472a07f08656b</hash>
+    <size>7156224</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.328.0-windows-amd64.exe</url>
+    <version>2.328.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2020-07-25T12:06:56.318323737Z</published>
+</metalink>
