@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.336.0-linux-amd64">
+    <hash type="sha-512">1f59a6e5485f7727dbd9c1a11c4c2c0058ca295e54753717441bb7afa4718e37cf5db1f97c31b5b6bfeaea568d94aef40aeeb801955e94538a09293f7c519525</hash>
+    <hash type="sha-256">586b5a7c8e36b54a46cdff7da37aedd46e4402b13a830833f352d26bd64adb49</hash>
+    <hash type="sha-1">12271b1fea038d07f8b1d4a3d356c973efa96b1e</hash>
+    <hash type="md5">5e5dce07356f179bff2da9cd58cdc7e3</hash>
+    <size>17651538</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.336.0-linux-amd64</url>
+    <version>2.336.0</version>
+  </file>
+  <file name="bosh-agent-2.336.0-windows-amd64.exe">
+    <hash type="sha-512">a3e3b6a8ac2c163c8acabaae419391ffd58d121f050d07990cf5a869f70803bc977200047771a850a851d359c285382660c88d412312a47093a97d3a944da2eb</hash>
+    <hash type="sha-256">64dffea36a77b000f3ce6baeda0414c86ea71a1673ab29704b4e2527678e3a7f</hash>
+    <hash type="sha-1">e355a6d17036ceaa1533f988c0f155a3901802b9</hash>
+    <hash type="md5">822c481c2bad5526a4e8f6e1bc966f60</hash>
+    <size>17709056</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.336.0-windows-amd64.exe</url>
+    <version>2.336.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.336.0-windows-amd64.exe">
+    <hash type="sha-512">9ca61bb6fd39a6f13b072ca8b9fe6315f6b59bcbbc2a06fc2265a255518cf766d1bfc179865788a523175103dc99af79aced847764bd0f14401f13a5d6730e3b</hash>
+    <hash type="sha-256">79bcfb1db347ad031c1eb56ac794ccf74b1eac33c8aa548b990188eff89217ca</hash>
+    <hash type="sha-1">c715073e343de8fff6542385e2f563d7e4b028f9</hash>
+    <hash type="md5">d79980b8493137e15e1472a07f08656b</hash>
+    <size>7156224</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.336.0-windows-amd64.exe</url>
+    <version>2.336.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2020-09-28T21:28:27.38474705Z</published>
+</metalink>
