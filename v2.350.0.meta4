@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.350.0-linux-amd64">
+    <hash type="sha-512">ebbb64d2d64b4dd284d2a0b544ddfc2b367ce2a761a8893f489f5820c99dcc221ae595dd86007f7c3997c2d928b8de8d8fd9da2e407bc66c8297137dbe84e771</hash>
+    <hash type="sha-256">9c80fbd3d0353168056c53b9b1835c6715c93a17b757b7ffa7f47700f58d09b8</hash>
+    <hash type="sha-1">1dbb4b6e8cb7839ba80ade345e6282f3526fcdd2</hash>
+    <hash type="md5">a90603069fcaf4ce9279511f0b426e23</hash>
+    <size>17659878</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.350.0-linux-amd64</url>
+    <version>2.350.0</version>
+  </file>
+  <file name="bosh-agent-2.350.0-windows-amd64.exe">
+    <hash type="sha-512">6c2bff3124be9cb1c94189ce470063cfb8613aa2a88c87609d9afaeb2470ee5758053aaa88cfeb9a61749c619e4603945face87a7b5081474a6039805c4e9594</hash>
+    <hash type="sha-256">7c9b15ad9eab3b808d25193803de8ac6ca97a455a46b1c06f0bc6f0a8c3164e4</hash>
+    <hash type="sha-1">6fc14c3ab14d90c0185a1c8a6c723f388cf85aef</hash>
+    <hash type="md5">b4ea667c0a865d0015df288686feb801</hash>
+    <size>17721856</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.350.0-windows-amd64.exe</url>
+    <version>2.350.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.350.0-windows-amd64.exe">
+    <hash type="sha-512">9ca61bb6fd39a6f13b072ca8b9fe6315f6b59bcbbc2a06fc2265a255518cf766d1bfc179865788a523175103dc99af79aced847764bd0f14401f13a5d6730e3b</hash>
+    <hash type="sha-256">79bcfb1db347ad031c1eb56ac794ccf74b1eac33c8aa548b990188eff89217ca</hash>
+    <hash type="sha-1">c715073e343de8fff6542385e2f563d7e4b028f9</hash>
+    <hash type="md5">d79980b8493137e15e1472a07f08656b</hash>
+    <size>7156224</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.350.0-windows-amd64.exe</url>
+    <version>2.350.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2021-01-09T12:06:38.146409794Z</published>
+</metalink>
