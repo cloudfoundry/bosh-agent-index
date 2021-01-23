@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.354.0-linux-amd64">
+    <hash type="sha-512">04de3e968229a8f0f00a74639b62f2d0373449d850d99e15b62f4c73a61fa0d8b7a01a2010f036c51bf0077d70beac69f6a14307dc1774045a18219aeb63b24f</hash>
+    <hash type="sha-256">568ced75df2fde3d711bcdfd2e2a870b4f548399af8d7f5b6a6cc1a8175d088c</hash>
+    <hash type="sha-1">94e7880a0fb486bddd91ed7d058b6946ee75e7c6</hash>
+    <hash type="md5">3c537b04cd4bb77f4730aaa66e2b1f08</hash>
+    <size>17659878</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.354.0-linux-amd64</url>
+    <version>2.354.0</version>
+  </file>
+  <file name="bosh-agent-2.354.0-windows-amd64.exe">
+    <hash type="sha-512">d20bb53d17ce9cd0eaa136c8853a71dc904345c1458d067466158bd44b4003d797fd5c2631aacc4ff59b56c87be33e61eb339affbd5c5a90dde04f51618ea2b8</hash>
+    <hash type="sha-256">c3a021fe23ade8a721310fbeecbfd82d01b19163dab4cecf60d4c0a3d40a414c</hash>
+    <hash type="sha-1">467c4c74de5fd22a82eab7b525784b82d3fff646</hash>
+    <hash type="md5">adda0b78a67ef5f6abbe355542a6f7ae</hash>
+    <size>17722368</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.354.0-windows-amd64.exe</url>
+    <version>2.354.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.354.0-windows-amd64.exe">
+    <hash type="sha-512">9ca61bb6fd39a6f13b072ca8b9fe6315f6b59bcbbc2a06fc2265a255518cf766d1bfc179865788a523175103dc99af79aced847764bd0f14401f13a5d6730e3b</hash>
+    <hash type="sha-256">79bcfb1db347ad031c1eb56ac794ccf74b1eac33c8aa548b990188eff89217ca</hash>
+    <hash type="sha-1">c715073e343de8fff6542385e2f563d7e4b028f9</hash>
+    <hash type="md5">d79980b8493137e15e1472a07f08656b</hash>
+    <size>7156224</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.354.0-windows-amd64.exe</url>
+    <version>2.354.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2021-01-23T12:05:06.174259604Z</published>
+</metalink>
