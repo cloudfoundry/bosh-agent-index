@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.359.0-linux-amd64">
+    <hash type="sha-512">82ca6901c21fa74a217a1a3a47be4033a564f20aac9168418fc4fb9dbd8c92d6e229cc8de6c283ebcb7a79a1867ea6b09823f6003404cceb9d1ce8b61749c43e</hash>
+    <hash type="sha-256">a73a93c7c5bca108b6bc437be7419b09c86e82c05571d779c0348939be0e0b38</hash>
+    <hash type="sha-1">36d608810c1a2b5b35e32ae25df531e5d930ee94</hash>
+    <hash type="md5">5dba86eac6fbbacb37cda4c2d68c36e1</hash>
+    <size>16464837</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.359.0-linux-amd64</url>
+    <version>2.359.0</version>
+  </file>
+  <file name="bosh-agent-2.359.0-windows-amd64.exe">
+    <hash type="sha-512">8c44f147cb96f0005c4c909478fb24cbef34fd45f06b013062fddcb7e3779ea820916d14d744cd57b494b0bbf6ed2a8bb59aa199b36f6c1e846daf1094f5797c</hash>
+    <hash type="sha-256">2d3ececf02379301e3c80b2b28ff169d4672d1a30ed7eb8d02226b395c7d073b</hash>
+    <hash type="sha-1">2ffa24d29be9a9a348f91284465d53975d881d90</hash>
+    <hash type="md5">434ced2036faa579bf3bc03f5bacfb74</hash>
+    <size>16800256</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.359.0-windows-amd64.exe</url>
+    <version>2.359.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.359.0-windows-amd64.exe">
+    <hash type="sha-512">af69c34e2c24050720e389652d4bfdce0d1d0fd0ce1cd40bbf43db69233301a12a1d434bff3c6a2ea1c1d9c7e537847d27a32ea781b2cb841c807c840328125f</hash>
+    <hash type="sha-256">ec4cf4fd591d529adf64aa964876dec1986430320481af5db94dcc750c4269b6</hash>
+    <hash type="sha-1">01dad1e3e2dfc0111e89fad0dbc6375ba1f01819</hash>
+    <hash type="md5">f0ed3cf1d3dfb56853bc932c4d73b5a1</hash>
+    <size>6799872</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.359.0-windows-amd64.exe</url>
+    <version>2.359.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2021-01-30T11:58:03.283237805Z</published>
+</metalink>
