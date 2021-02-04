@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.363.0-linux-amd64">
+    <hash type="sha-512">1fdc3d7d3e29a2c622d9e0e5db4311bbd78913d29f3175f1443155d7b4ed58defa3fbe9912e13e636d063973655acdc80d942b222bf55a701ade370241043f67</hash>
+    <hash type="sha-256">6e1cc5ed7dfa857919383aaf203eddbbb0ed559a509e8e89015aa335317ee9a2</hash>
+    <hash type="sha-1">a82668ecdf8f216bc04186ba82eaf039078900d1</hash>
+    <hash type="md5">296beb805613db9ecff9de5aa95cc207</hash>
+    <size>16468933</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.363.0-linux-amd64</url>
+    <version>2.363.0</version>
+  </file>
+  <file name="bosh-agent-2.363.0-windows-amd64.exe">
+    <hash type="sha-512">c27043032c0e495e749b1baa5bbe16b572211d54ee3f85d451adb94ae5b4be7941001539cf510742973a060d517a8ab756d5aa5d86183978a369669ffca138b5</hash>
+    <hash type="sha-256">368ed59be52e6196376699eb91fe2cde65337362fd450e38bb3d9de556a5446f</hash>
+    <hash type="sha-1">3e4f98346470b91e9258b43bef93f4b4b2605956</hash>
+    <hash type="md5">4627dd0e428213d4478ec840eef8e546</hash>
+    <size>16803328</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.363.0-windows-amd64.exe</url>
+    <version>2.363.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.363.0-windows-amd64.exe">
+    <hash type="sha-512">af69c34e2c24050720e389652d4bfdce0d1d0fd0ce1cd40bbf43db69233301a12a1d434bff3c6a2ea1c1d9c7e537847d27a32ea781b2cb841c807c840328125f</hash>
+    <hash type="sha-256">ec4cf4fd591d529adf64aa964876dec1986430320481af5db94dcc750c4269b6</hash>
+    <hash type="sha-1">01dad1e3e2dfc0111e89fad0dbc6375ba1f01819</hash>
+    <hash type="md5">f0ed3cf1d3dfb56853bc932c4d73b5a1</hash>
+    <size>6799872</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.363.0-windows-amd64.exe</url>
+    <version>2.363.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2021-02-04T18:37:14.07399967Z</published>
+</metalink>
