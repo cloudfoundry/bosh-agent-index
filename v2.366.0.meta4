@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.366.0-linux-amd64">
+    <hash type="sha-512">afe55cd2a87bd0bb3f859248405d5f78dc034c422e929197ea53c56ed4332494f292e97992d9760b330c7a3a26e7a90a2488d6203783694353024fab2d61601c</hash>
+    <hash type="sha-256">e2858bbb22bd9d59460cdcb86dbc2ecd17baa96192e9fe98a9cbf80ade192348</hash>
+    <hash type="sha-1">329ab34af62773cc527a1d5038ce6af25f2bebae</hash>
+    <hash type="md5">5880bdbab4097bfa8bc91816db2b71e0</hash>
+    <size>16468933</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.366.0-linux-amd64</url>
+    <version>2.366.0</version>
+  </file>
+  <file name="bosh-agent-2.366.0-windows-amd64.exe">
+    <hash type="sha-512">27474b3345a9c0984ec2b6289cedf27e6eb3dd0e168307e3cc9a7561997ebd5e770896cfbfe16837981e853dc8d82705dec83135155f435a18913589b679f7ef</hash>
+    <hash type="sha-256">3856af8e1fae1e912fe770af760031772fc4ee6193c9044a30e7ce8be64f3364</hash>
+    <hash type="sha-1">5795fe787fa9f912c7f6ac649771cc31fc77b3fc</hash>
+    <hash type="md5">5faf6e78c279b8e8b4141eb1fc9609e2</hash>
+    <size>16803328</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.366.0-windows-amd64.exe</url>
+    <version>2.366.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.366.0-windows-amd64.exe">
+    <hash type="sha-512">af69c34e2c24050720e389652d4bfdce0d1d0fd0ce1cd40bbf43db69233301a12a1d434bff3c6a2ea1c1d9c7e537847d27a32ea781b2cb841c807c840328125f</hash>
+    <hash type="sha-256">ec4cf4fd591d529adf64aa964876dec1986430320481af5db94dcc750c4269b6</hash>
+    <hash type="sha-1">01dad1e3e2dfc0111e89fad0dbc6375ba1f01819</hash>
+    <hash type="md5">f0ed3cf1d3dfb56853bc932c4d73b5a1</hash>
+    <size>6799872</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.366.0-windows-amd64.exe</url>
+    <version>2.366.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2021-02-09T03:34:43.469931029Z</published>
+</metalink>
