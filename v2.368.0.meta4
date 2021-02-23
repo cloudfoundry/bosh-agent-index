@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.368.0-linux-amd64">
+    <hash type="sha-512">a6beb08fbbbf12a9e2b3420b765f2c8cf2c8f6c7f597b4f01eedb4b4e928d55f303f3128c5c65f5739f70b16a4bf9a319722b92e95224e37608a09f75456736e</hash>
+    <hash type="sha-256">30cb5b3185dbdf064a6de532055e9e7cb83fc3629e27be28c7acc33fcf6b4cf0</hash>
+    <hash type="sha-1">02e868624d5c87692fc5e887294606800d2896e8</hash>
+    <hash type="md5">f53494a90a701e2914e9b05ecd408cf7</hash>
+    <size>16278927</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.368.0-linux-amd64</url>
+    <version>2.368.0</version>
+  </file>
+  <file name="bosh-agent-2.368.0-windows-amd64.exe">
+    <hash type="sha-512">f08da65f1fada3777b5c9fc711f69387b756d02d787f2506f00674c820016b9934c995f17b330394b0b1831f767d0ab7bf2f58494282d3762d88d9bb43d410c7</hash>
+    <hash type="sha-256">7c71a15b64262bd3bef604e2d1d1df22b8a8486445798930ac32cb3487e6eee4</hash>
+    <hash type="sha-1">ed3b362b20677c3e6612e1658597f10edb41c29a</hash>
+    <hash type="md5">570a0952c2375d758a8af01ac889e980</hash>
+    <size>16583680</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.368.0-windows-amd64.exe</url>
+    <version>2.368.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.368.0-windows-amd64.exe">
+    <hash type="sha-512">286547e125bd0809d12617e442e26f1a046f3ac70ec0c9a0eb5b643bd7ab31c19d84e30e1ae23629a10b7dc85ca9226a3e09b8f20477e018cf63549792044598</hash>
+    <hash type="sha-256">231d0264b71738e7a7cb50b1f7e689385e3206afa6734ec2de21020a90844411</hash>
+    <hash type="sha-1">bd4e5616abacebc90ed2a77fab13b9a408cf05e8</hash>
+    <hash type="md5">57afc0161ed94b01300d56c5dacbc431</hash>
+    <size>6799872</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.368.0-windows-amd64.exe</url>
+    <version>2.368.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2021-02-23T21:44:06.09723713Z</published>
+</metalink>
