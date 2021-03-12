@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.268.20-linux-amd64">
+    <hash type="sha-512">62ba1c33e25ecdad838da52dc91ab9157fc26ff80f604e0988ffa4e71b3293a9e4e6f5db3851c1aadf72f11c5599ac3fbdc8df5c660cabd029f6b11f7a3799f3</hash>
+    <hash type="sha-256">e48f4e9fbe6d3c4337142e995ac7b0708c3ea78ebf50a263c4e1d87f1608b55c</hash>
+    <hash type="sha-1">0671b29b07d9dd5f738cb95a68c46409e6983fa6</hash>
+    <hash type="md5">03b68347e0a55f7ed1c330413166fee2</hash>
+    <size>16298960</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.268.20-linux-amd64</url>
+    <version>2.268.20</version>
+  </file>
+  <file name="bosh-agent-2.268.20-windows-amd64.exe">
+    <hash type="sha-512">387a6aa3d0c4383744c36d0421ed66a52a8027b9369c93967f7d9fa200d68378aabcc15ee04084e50ef91234df6c3e6f278c0d6913d112d991dbe081a3a3727d</hash>
+    <hash type="sha-256">bcd2b7ca947d35038bf40541bd569f3663896f921e5501b4dfdc0a28e55447a1</hash>
+    <hash type="sha-1">bb3eda7a996403d36d2ce33bad49fd287b4d0580</hash>
+    <hash type="md5">e57dc339b02e92bec81a8e91551a8530</hash>
+    <size>16609792</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.268.20-windows-amd64.exe</url>
+    <version>2.268.20</version>
+  </file>
+  <file name="bosh-agent-pipe-2.268.20-windows-amd64.exe">
+    <hash type="sha-512">286547e125bd0809d12617e442e26f1a046f3ac70ec0c9a0eb5b643bd7ab31c19d84e30e1ae23629a10b7dc85ca9226a3e09b8f20477e018cf63549792044598</hash>
+    <hash type="sha-256">231d0264b71738e7a7cb50b1f7e689385e3206afa6734ec2de21020a90844411</hash>
+    <hash type="sha-1">bd4e5616abacebc90ed2a77fab13b9a408cf05e8</hash>
+    <hash type="md5">57afc0161ed94b01300d56c5dacbc431</hash>
+    <size>6799872</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.268.20-windows-amd64.exe</url>
+    <version>2.268.20</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2021-03-12T01:06:55.718529434Z</published>
+</metalink>
