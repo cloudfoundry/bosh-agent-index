@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.372.0-linux-amd64">
+    <hash type="sha-512">bab1bab9419ac002478c6f8bd329b2ae40ad156f6df22fbc77e6b36703de85b3930ba96afde36d1aff2b6ada491ffe2435aafaa12a72ecb250b4fbb9433f994b</hash>
+    <hash type="sha-256">aa895f9dd3c29a5a771da0be9ab5d59524cc95e0cf1374247d03a8c0e59c96b9</hash>
+    <hash type="sha-1">a5a8a4278d70ba6f3135271604bfb107b59862ca</hash>
+    <hash type="md5">dda1596a1da6cd65c34ccf38e2231c7d</hash>
+    <size>16279677</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.372.0-linux-amd64</url>
+    <version>2.372.0</version>
+  </file>
+  <file name="bosh-agent-2.372.0-windows-amd64.exe">
+    <hash type="sha-512">f1b5ee2b22f09fb6b24a45b2fa733304ebbfbccc7e987d7933904c099735a1d9a1eab89aa663fbcbade2ea1ee826bba2aca20d469c005451cead90906849833f</hash>
+    <hash type="sha-256">b29f9351aeb181d9ee82b63dbb09d5d82e57ef718cda75fbd0fbbfd4d374b5c4</hash>
+    <hash type="sha-1">bc9c0e7078b13b923af15ffa8ae8e8d8be3018cd</hash>
+    <hash type="md5">f2882eb1019deaba6f4df0b8506a3a78</hash>
+    <size>16599040</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.372.0-windows-amd64.exe</url>
+    <version>2.372.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.372.0-windows-amd64.exe">
+    <hash type="sha-512">286547e125bd0809d12617e442e26f1a046f3ac70ec0c9a0eb5b643bd7ab31c19d84e30e1ae23629a10b7dc85ca9226a3e09b8f20477e018cf63549792044598</hash>
+    <hash type="sha-256">231d0264b71738e7a7cb50b1f7e689385e3206afa6734ec2de21020a90844411</hash>
+    <hash type="sha-1">bd4e5616abacebc90ed2a77fab13b9a408cf05e8</hash>
+    <hash type="md5">57afc0161ed94b01300d56c5dacbc431</hash>
+    <size>6799872</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.372.0-windows-amd64.exe</url>
+    <version>2.372.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2021-03-23T23:06:51.256002632Z</published>
+</metalink>
