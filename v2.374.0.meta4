@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.374.0-linux-amd64">
+    <hash type="sha-512">8d03a7d72f1fe737967ecddeda7497e12dc0e108fc5d23d7aba876e5bbac696b9432aedd571fa94fd11023c438babfbe99f92a471417ba2917f2785e4150ed98</hash>
+    <hash type="sha-256">50eeb9c7d9fdcc8c43cfe593a197066374e87b0ee9741597f9ff7fea1aa31745</hash>
+    <hash type="sha-1">772e405287918a8038347bb0887a5d8bae8ac78e</hash>
+    <hash type="md5">da72f38208faa46bad9d5d5afee2a966</hash>
+    <size>16279677</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.374.0-linux-amd64</url>
+    <version>2.374.0</version>
+  </file>
+  <file name="bosh-agent-2.374.0-windows-amd64.exe">
+    <hash type="sha-512">44f7410e66d04de36b332c1712c17faa8bd4961aa2d41066879c42c75782c03da6d0157e653ad38805774b059bb391251f4495b11949061a05484d4494141051</hash>
+    <hash type="sha-256">399c212f3735a75bed7816fbe9faefe7c4016ed290e6ac8f40ed200875b7f1c1</hash>
+    <hash type="sha-1">aab0029b566795e56c2a265dc5bc53e9729f01bb</hash>
+    <hash type="md5">df3d4db3b910265cb5959b95f9fd45fb</hash>
+    <size>16599040</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.374.0-windows-amd64.exe</url>
+    <version>2.374.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.374.0-windows-amd64.exe">
+    <hash type="sha-512">286547e125bd0809d12617e442e26f1a046f3ac70ec0c9a0eb5b643bd7ab31c19d84e30e1ae23629a10b7dc85ca9226a3e09b8f20477e018cf63549792044598</hash>
+    <hash type="sha-256">231d0264b71738e7a7cb50b1f7e689385e3206afa6734ec2de21020a90844411</hash>
+    <hash type="sha-1">bd4e5616abacebc90ed2a77fab13b9a408cf05e8</hash>
+    <hash type="md5">57afc0161ed94b01300d56c5dacbc431</hash>
+    <size>6799872</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.374.0-windows-amd64.exe</url>
+    <version>2.374.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2021-03-30T01:17:58.16223128Z</published>
+</metalink>
