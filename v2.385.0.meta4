@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.385.0-linux-amd64">
+    <hash type="sha-512">4a95431afdc985e268c01f73494d925616f5b95facbf52140f91db05ec8740e7f491a37f9a5b77b3ac84ba312108456ea03d1f1206b42e847d6802e8d860a9ff</hash>
+    <hash type="sha-256">3d161512116123eeb4f2421b53a74ef4a457de51eaef3a3eaedc7b975a91947d</hash>
+    <hash type="sha-1">6fd89ce8630be931a40363302e2b6b14aa4cbe83</hash>
+    <hash type="md5">a2e2e6c2f24b1e06baf3e1c01cada903</hash>
+    <size>16739449</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.385.0-linux-amd64</url>
+    <version>2.385.0</version>
+  </file>
+  <file name="bosh-agent-2.385.0-windows-amd64.exe">
+    <hash type="sha-512">a5db3316d9292564f0346734e68582ffb2746413226fb696802d264dd79ac0d3b6847db084eab3b065074f971c541b6e20d633004b230dabf4bfd69b207f275e</hash>
+    <hash type="sha-256">f9155e9fdf5dc9a669c79f2de7bb5b10ff8abc52a69b7238112ce167f67a96ef</hash>
+    <hash type="sha-1">ce4404fa17f9b4d7748f5c47a4d4ea8fb7965ca8</hash>
+    <hash type="md5">7800cb1ea62941878c691d2635d1a7e6</hash>
+    <size>17084416</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.385.0-windows-amd64.exe</url>
+    <version>2.385.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.385.0-windows-amd64.exe">
+    <hash type="sha-512">286547e125bd0809d12617e442e26f1a046f3ac70ec0c9a0eb5b643bd7ab31c19d84e30e1ae23629a10b7dc85ca9226a3e09b8f20477e018cf63549792044598</hash>
+    <hash type="sha-256">231d0264b71738e7a7cb50b1f7e689385e3206afa6734ec2de21020a90844411</hash>
+    <hash type="sha-1">bd4e5616abacebc90ed2a77fab13b9a408cf05e8</hash>
+    <hash type="md5">57afc0161ed94b01300d56c5dacbc431</hash>
+    <size>6799872</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.385.0-windows-amd64.exe</url>
+    <version>2.385.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2021-09-13T07:22:12.200356947Z</published>
+</metalink>
