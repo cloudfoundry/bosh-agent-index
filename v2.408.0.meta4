@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.408.0-linux-amd64">
+    <hash type="sha-512">db85e3a61df2dd8939d64afd21b0f86f3b97ef3d92e60a9b9873014ae6a6b4692ea032c24e8f0920159fa771c50f720c955348b28f0036fbb5c517ff6dce5b1c</hash>
+    <hash type="sha-256">e73128d4707f430e1bb3a396cfe571e4e139e7656950c7fba1db0baed7ad7096</hash>
+    <hash type="sha-1">427a05bfaf762154a20b2133c8bdcc31367ef660</hash>
+    <hash type="md5">f37703fcc61c361ede0136976dbb6cae</hash>
+    <size>15879853</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.408.0-linux-amd64</url>
+    <version>2.408.0</version>
+  </file>
+  <file name="bosh-agent-2.408.0-windows-amd64.exe">
+    <hash type="sha-512">94bed12eaa3bd7218c74489d7915684fc5715c844f787841671e3979c19ca0f1eecd032d6d03668811d74f502f35fbfe1cca925df4cd6ea406325be9f9d3ed3b</hash>
+    <hash type="sha-256">57ba5596e75f0e3dc7b13436fd4d274b68001381c558c830db00d3abe090f4e1</hash>
+    <hash type="sha-1">f2b9e83b9960c646c9c7e5b63665ea8275b31842</hash>
+    <hash type="md5">571c222eb7542aad0acfec265c16db72</hash>
+    <size>16363008</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.408.0-windows-amd64.exe</url>
+    <version>2.408.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.408.0-windows-amd64.exe">
+    <hash type="sha-512">0500d05af97f99225246a0a78d5cccc77c6847b4ea464c45588f536f7dc74dff7043bc52167f217fe5dd4485ab7bc77dc448b197aa8405c910cef1efa20766ec</hash>
+    <hash type="sha-256">cedd79f99b3b5fde2cd98543d5c12f78be75fe7483b17a29f87b1f67152303ae</hash>
+    <hash type="sha-1">c785b28a8900e0174f8392df644d19390282fa81</hash>
+    <hash type="md5">dec6128faa4f932856905667ca25d889</hash>
+    <size>6492160</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.408.0-windows-amd64.exe</url>
+    <version>2.408.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2021-12-18T12:46:33.803869629Z</published>
+</metalink>
