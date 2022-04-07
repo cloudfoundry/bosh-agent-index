@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.433.0-linux-amd64">
+    <hash type="sha-512">2fd58db951d1376bcd8d73e71c9eef5a98ebecbd251a47e2e57132cdeabb92191335d653b574b79582aa1f5f03e7d3efc10b62c3a6cbed3e2e6aea22b5109336</hash>
+    <hash type="sha-256">2a4f4cfabe87ee5d18b6739e90d51d63924e0287cc9d8aa8a5a38fbe8784d207</hash>
+    <hash type="sha-1">3a0fb6c92cb2a94133699e3a507e527b24b388da</hash>
+    <hash type="md5">e52f55d32b9d9cb671fa2abb4ad0a2e5</hash>
+    <size>18611525</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.433.0-linux-amd64</url>
+    <version>2.433.0</version>
+  </file>
+  <file name="bosh-agent-2.433.0-windows-amd64.exe">
+    <hash type="sha-512">0916591d1f0276e4fa7ad1834d8bbd9d534b5cfedd38ecbb353d3bf932949724be03fa85ea3da2e78a1512b380f8922f01df551c1d190c98b5a7796505eb4b4e</hash>
+    <hash type="sha-256">f6e0678d994e4664f2dc9613c36d0c63a9ac078ef8fd46e923e249c13bc5416d</hash>
+    <hash type="sha-1">dad5ed87a7a91fd5065f8218d2de2b8b3fe420b2</hash>
+    <hash type="md5">6f07264710a015ebabd78f311f4752c2</hash>
+    <size>16753152</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.433.0-windows-amd64.exe</url>
+    <version>2.433.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.433.0-windows-amd64.exe">
+    <hash type="sha-512">38daed81cb498eece295e9e91691a27d8fe35a205d234c5a33c13657b1c80669cf667315483012f20298743a30c036ae184ff2a12937c6b49efdc7439136d1a5</hash>
+    <hash type="sha-256">06f0cefa0aab9a7ee4ef2946d6c0feb4f86b4fccba736549deadb707ef83ef73</hash>
+    <hash type="sha-1">9d13f4e0cfbc6b44e36d67d6d7adbf7720e2661f</hash>
+    <hash type="md5">a2eb36729dfee88d98f792e855af1264</hash>
+    <size>6599680</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.433.0-windows-amd64.exe</url>
+    <version>2.433.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2022-04-07T23:58:41.863971733Z</published>
+</metalink>
