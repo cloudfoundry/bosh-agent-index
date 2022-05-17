@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.447.0-linux-amd64">
+    <hash type="sha-512">8bb1fac0a980b60d33882d607e695f522f4580d148b491c55ba1d2c387c73309e2010e750d343c13111571ac97bac6778b65e008738bcec6488194f029eb736f</hash>
+    <hash type="sha-256">0e3185c5c81a9e7207b4408f5321f22ab0e8e1c68e94d7e834f17a862a67aa72</hash>
+    <hash type="sha-1">cd9cabbbf3a30782bd76dc8cd3d3660dca758c08</hash>
+    <hash type="md5">b832f1818d8cb799062e6f56777812f9</hash>
+    <size>18737078</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.447.0-linux-amd64</url>
+    <version>2.447.0</version>
+  </file>
+  <file name="bosh-agent-2.447.0-windows-amd64.exe">
+    <hash type="sha-512">41500fa83250cc49df12f14b6e1a368aa6109a53b967727be3ae0564a78d732a2fc01efd5f698fdfaf149b01d1eb7636c26c53237b9b5f25d659641f22e597b5</hash>
+    <hash type="sha-256">963929ed42b0746f080543c6a44546cf1641891327062caf758380e65032693e</hash>
+    <hash type="sha-1">dd4569f74e70ca603936b7773730334eb6f9e36f</hash>
+    <hash type="md5">f023b5236d84965b66ab0c2c8606dbcb</hash>
+    <size>16877056</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.447.0-windows-amd64.exe</url>
+    <version>2.447.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.447.0-windows-amd64.exe">
+    <hash type="sha-512">8047ae437ab37cf7705984dee6e98ce4074fa13601adf4bd19f12209de36f8ce557615bb55f451c5c22141b2668de06db78cd21effdddb39e428c77a2a70cfae</hash>
+    <hash type="sha-256">b16304857591a98652f714fe155beeb400dc825cf7870583c19fae22c31b2555</hash>
+    <hash type="sha-1">f13ba92231a127a53e2323b811124b78c5b54574</hash>
+    <hash type="md5">917d08ec22e5fe0ed68d95097a90eea3</hash>
+    <size>6599680</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.447.0-windows-amd64.exe</url>
+    <version>2.447.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2022-05-17T20:34:35.795515608Z</published>
+</metalink>
