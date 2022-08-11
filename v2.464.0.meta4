@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.464.0-linux-amd64">
+    <hash type="sha-512">3af075d3feadab46f2e414b7b402c5b7cd3a5adcc7454d0e75f333d52d0e46d34a22d2a58c866a53d61926ba1ab2ee121e0a7be6ab113ccf34886549fc446b36</hash>
+    <hash type="sha-256">36b36f528e2f0443d5157e98423bbc0ae86f9ff1c3ddec777171dda4aa3a9359</hash>
+    <hash type="sha-1">b386cd4a8cae32c3480806a8e0021dbf192e8d18</hash>
+    <hash type="md5">a76411ccabbad149a6cab3c069342cdb</hash>
+    <size>18757372</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.464.0-linux-amd64</url>
+    <version>2.464.0</version>
+  </file>
+  <file name="bosh-agent-2.464.0-windows-amd64.exe">
+    <hash type="sha-512">3d8a3df0fae4664bc9467e3040a1cddc3eded068d83b63c0e536b64ed3a5d1ff003ba6ebaf27fb7d71ef14e590ff7e5b32fe4bd9d2d04b8d3728bb8b817e55b6</hash>
+    <hash type="sha-256">a6492d255dec0a8fe6134e5ac521470d7a4a51442ee8cd6a34d5c154434a3492</hash>
+    <hash type="sha-1">34055070684d7f705f061856bb5ecf86500f925b</hash>
+    <hash type="md5">9a32f5ed008559749b11ecc8006b1575</hash>
+    <size>16789504</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.464.0-windows-amd64.exe</url>
+    <version>2.464.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.464.0-windows-amd64.exe">
+    <hash type="sha-512">7ca9744b2dac67f9352316df1ed3cca0f7fe6fc21718e7a4a3db152f50f8d9dfd7506e14feae8e6c4edc292ab96f486cb90431cd6f2e3cf81ae676755f10d825</hash>
+    <hash type="sha-256">7d76053c81ceae7de590ba88def3ccf6949504066e3f7fedaabec6a53a98afe8</hash>
+    <hash type="sha-1">63e95b0f03509a9c2bf5545f7b37221d14cae494</hash>
+    <hash type="md5">c969a508bfe14f27ad6f61ec761e5f9a</hash>
+    <size>6602240</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.464.0-windows-amd64.exe</url>
+    <version>2.464.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2022-08-11T17:53:12.98233342Z</published>
+</metalink>
