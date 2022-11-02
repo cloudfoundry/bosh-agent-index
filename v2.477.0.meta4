@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.477.0-linux-amd64">
+    <hash type="sha-512">3c61c8cd0e33d287d101fb27450e7f39cabb8feeb0181c8a10d214667cc32a925a81bb59dc4d0d616eaa7e4998306a94b976995de84f83df26827ae1fe1f3ad4</hash>
+    <hash type="sha-256">1f6aa12d83e4e9cde0d210c187a1775104166a4af7cbf4ec118cf3ae867c864c</hash>
+    <hash type="sha-1">54aa6d0f7ed73b27d4ed62f6679b0b7759da0f98</hash>
+    <hash type="md5">eef20b3f3d0e50fd8ec7c9d8912b5886</hash>
+    <size>19291703</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.477.0-linux-amd64</url>
+    <version>2.477.0</version>
+  </file>
+  <file name="bosh-agent-2.477.0-windows-amd64.exe">
+    <hash type="sha-512">a00a73add607454c95c5c4dd5a983cdaafb3dd2da8381d6b694db85451fba2835624b6eccf41f434a40f54049e4c20cfe906ebbe80c70997f3e668386fdd5ac4</hash>
+    <hash type="sha-256">dc4d2971804fdb6c8cc10038b0e8d1f6922454fba6061cf6f6a79847c892a4a2</hash>
+    <hash type="sha-1">f353b9972f7a4856c26d289bc072dbd0e580a29a</hash>
+    <hash type="md5">7394cf22d967d2beede4660c016b3a38</hash>
+    <size>17482752</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.477.0-windows-amd64.exe</url>
+    <version>2.477.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.477.0-windows-amd64.exe">
+    <hash type="sha-512">fb5f54c8a1b1e5733d0f979263d69a19d9c69a3097966237b09ecccbd01f57c3f740b97c979fcae3b3fa9d2ab2e4246ce5a5d0db847849fbf89888e3ca757135</hash>
+    <hash type="sha-256">e05dcc75a1bd08c3d7588ea08c479a00475b7ea422a0104b8953d159003ca509</hash>
+    <hash type="sha-1">e9db823df1a5b403c461d4146e04d32e47bcbf2c</hash>
+    <hash type="md5">6340e83f0063ab1d35f508948713a132</hash>
+    <size>7005184</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.477.0-windows-amd64.exe</url>
+    <version>2.477.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2022-11-02T12:22:05.305944807Z</published>
+</metalink>
