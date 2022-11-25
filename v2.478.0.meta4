@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.478.0-linux-amd64">
+    <hash type="sha-512">4ae6906bcadb28e0f06109d34b38d7287a9264dd69f988aa28dcc70bef5d73634f40935e9ad1b0297247161dc8b81451d84b624a632ff1e4618f3552eaa31b93</hash>
+    <hash type="sha-256">89c807e694d04f716515bf0616086d102a1a06a56c1eb464b787b6ae1227c251</hash>
+    <hash type="sha-1">4db3972b816f93f6ac2a6649fdcc100a785e2391</hash>
+    <hash type="md5">b5ba3aa8336df7718f885fd1fc5d6a49</hash>
+    <size>19215457</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.478.0-linux-amd64</url>
+    <version>2.478.0</version>
+  </file>
+  <file name="bosh-agent-2.478.0-windows-amd64.exe">
+    <hash type="sha-512">3fb6bcfb14686ce598d9c90ab44bfb4d9adb42c9ec851db28d7f862ff149c5c2538dd8d4efe342132e632b76d99169a959946b1ecc251225aa298cc82f646e46</hash>
+    <hash type="sha-256">5646e85fbbafbe6d898c858f72e72195289b26a819271a9ad702522a5bcde620</hash>
+    <hash type="sha-1">552f7320e9c084d93348c668d6d5b55d45437a33</hash>
+    <hash type="md5">80ff6de24e7db3f192f98cd26c398600</hash>
+    <size>17416704</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.478.0-windows-amd64.exe</url>
+    <version>2.478.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.478.0-windows-amd64.exe">
+    <hash type="sha-512">9d213bf4963f2973ffdd6037c0f8b7d0d45714614f48a3758414e5617086ac26557614868584f9465b91161b963dd0ef4e5f34e6139e5dd93e51f8a7936ff3ab</hash>
+    <hash type="sha-256">e6893e47d81dfe38971a5d6173e1ed5bdd721d1d67208a641b18986b647d21bf</hash>
+    <hash type="sha-1">5a46e1c2baea6ef184235df4d2cd7862d87f11f1</hash>
+    <hash type="md5">5043a7bbd78d69dc26267292fdf02190</hash>
+    <size>7005184</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.478.0-windows-amd64.exe</url>
+    <version>2.478.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2022-11-25T10:11:06.307771305Z</published>
+</metalink>
