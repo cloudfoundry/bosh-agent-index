@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.483.0-linux-amd64">
+    <hash type="sha-512">4df863ce82c79070f29d5424de2be811f0d565deaeb9fd4de13abd049e92b1fb5737b318d676016662132d6b32b90846d6751ba833215fb49b3244ed67e0f071</hash>
+    <hash type="sha-256">3f59f7bd5e6a9b52fda27435f788db8846567a1d1b227130c32e5cdc0a9e24ec</hash>
+    <hash type="sha-1">c46729e7c0541bec0c5b684f2de1b2a9a99c3168</hash>
+    <hash type="md5">d850701a23e0ebd6d2f2e00a5d5948c7</hash>
+    <size>19215457</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.483.0-linux-amd64</url>
+    <version>2.483.0</version>
+  </file>
+  <file name="bosh-agent-2.483.0-windows-amd64.exe">
+    <hash type="sha-512">f7abbfd5d748ac61b220a4edef1e2f079a9b31f26feb19c6b259ca6c9b0c3a3778d07cb7347b38c994d82d62d0a73bc54150f532cd9b1b140d18507ac33ad519</hash>
+    <hash type="sha-256">b95c54e1af105d4fe8e285c9519b0fad0a3d42e7f293a3eedc1004a9b4ea3713</hash>
+    <hash type="sha-1">fa095075e78356a74f9be69d547cc2c4e668436d</hash>
+    <hash type="md5">a1089546b93eb7f201e9d509bc444b8f</hash>
+    <size>17416704</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.483.0-windows-amd64.exe</url>
+    <version>2.483.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.483.0-windows-amd64.exe">
+    <hash type="sha-512">0962bb73c496c45d55267b3f17a6f7ef79faacbddf098c8d75958a34dbec34600649b23b0903028c95d567d3c000df96f7fddb946672295a08dd7fb06cf87bd6</hash>
+    <hash type="sha-256">5d5e76fffbb3222c97f182581e7e38ef987c0cf8d14f46feb222b103c08846ef</hash>
+    <hash type="sha-1">05b2b23f7e71f1c832ca9a7b1582df7e870a6335</hash>
+    <hash type="md5">3c3fd2b9c2b8f0d106142ad11711ad3c</hash>
+    <size>7005184</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.483.0-windows-amd64.exe</url>
+    <version>2.483.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2022-12-03T12:17:05.746896702Z</published>
+</metalink>
