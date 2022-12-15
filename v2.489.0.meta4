@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.489.0-linux-amd64">
+    <hash type="sha-512">e79bb6424a1fb7e81fe905b299c90d97cbc27a6dbab672b9ea2cb314b0f02ace4b9596fda8ba51358ad4d63cbfb511e7cecc5ccaab21dc01f0ab6db9d34db552</hash>
+    <hash type="sha-256">3b405ff00209cf56b52edcbbf9ec831fc60edeccd89e003fc6d64cea53b0c394</hash>
+    <hash type="sha-1">21ffe7d3d6bb05cc65d69e9e326da960122b69b7</hash>
+    <hash type="md5">e0c8209f13ce297f2d63fcc9db713233</hash>
+    <size>19221437</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.489.0-linux-amd64</url>
+    <version>2.489.0</version>
+  </file>
+  <file name="bosh-agent-2.489.0-windows-amd64.exe">
+    <hash type="sha-512">7a22614c3c17f11cc91029d23387535ec58ad6995d627f1ff7a01c7326d8f088d1eb50f7a30847d06571cb96e1d46ceb6f4547d0725a519a9e92b1c6fe5bd391</hash>
+    <hash type="sha-256">3215d0368fdeb42ec11213bc734ccb64f1d255dba3021390d9fda267930adfc4</hash>
+    <hash type="sha-1">70730b7339928ed62df850343d71fc2d4485ca7c</hash>
+    <hash type="md5">b218964b960a45ba10fb78a78784ae46</hash>
+    <size>17421312</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.489.0-windows-amd64.exe</url>
+    <version>2.489.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.489.0-windows-amd64.exe">
+    <hash type="sha-512">8d5a35e70b65da8e5f2adb3c6f95febb987e0fa5343591baf1a6d2ee0dd6f96b3f4c069da8a68ceec8d10fc75f7e82c179f1e475534c9fe140b2a02317cdad79</hash>
+    <hash type="sha-256">8e7e9ee5ab70f4646ff94451de033eb61bf6718b2ede8492986db1f759c5ee59</hash>
+    <hash type="sha-1">7f6da023b03540fe34632390b45b6360ee0d7951</hash>
+    <hash type="md5">f9f400b60542cf116e7e16fd6d2dc345</hash>
+    <size>7008768</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.489.0-windows-amd64.exe</url>
+    <version>2.489.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2022-12-15T21:42:01.761662203Z</published>
+</metalink>
