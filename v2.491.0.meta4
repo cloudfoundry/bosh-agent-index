@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.491.0-linux-amd64">
+    <hash type="sha-512">2aa36643da07f158411c9073975ef26343f4099636ff2ab4816b03e36bee91fd49f5ca5a74241bfdcc89abd841ff067c01bd2faeb6e2530b4183f03c9474a155</hash>
+    <hash type="sha-256">aa4311b74321894a6c326d68ad6b5c4ca34c430329b2cc0c2c3b1869b5f91339</hash>
+    <hash type="sha-1">9c6733341774fa4e13378490bb65124f50d28768</hash>
+    <hash type="md5">9950c6f5193a9bbfe9716f8933ed7666</hash>
+    <size>19228057</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.491.0-linux-amd64</url>
+    <version>2.491.0</version>
+  </file>
+  <file name="bosh-agent-2.491.0-windows-amd64.exe">
+    <hash type="sha-512">130998885d0b6915f779fe69df5520a5f32a179647c9048c9abb410de9e2cd82528f00b0082c0fcaab0d8dc28d8125394dd75fc19954731c8be24760cd71b1bc</hash>
+    <hash type="sha-256">fc2ae75e93c6731470a5a917a209cbe73cde7c5a6c5dfc3b384d69705d781880</hash>
+    <hash type="sha-1">df48b0c5e21e1473091c491fa079e573f095015e</hash>
+    <hash type="md5">1de94aff7db18e3a1d99f4599b3bb5d4</hash>
+    <size>17419776</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.491.0-windows-amd64.exe</url>
+    <version>2.491.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.491.0-windows-amd64.exe">
+    <hash type="sha-512">63963685f6e87ab86598bf7c6ffff187198d4de11b9fcfce145ff356f5d2d99074f4cba71d82ee77ee23c1d82853c2c510eb6b446e22c40f251c800400e90442</hash>
+    <hash type="sha-256">c28b6dc5923a3eb0f00a2af9fb6f8b19a15587854f80bed27306ec4cb9bd41d5</hash>
+    <hash type="sha-1">8aa0b42d3efafef9282170bd5be0282f6c630b13</hash>
+    <hash type="md5">eff7549c5b30aa82da84d23939bfac4e</hash>
+    <size>7008768</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.491.0-windows-amd64.exe</url>
+    <version>2.491.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2023-01-03T18:23:53.456946075Z</published>
+</metalink>
