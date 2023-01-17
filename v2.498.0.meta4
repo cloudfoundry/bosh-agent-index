@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.498.0-linux-amd64">
+    <hash type="sha-512">9fb575c1ed37da4bc88dcb88143924514278b2219a923273ee12cc52d291928ae95b6bc530f229747e1886258783807f79ba252b18258e7b9656ddee14e7eb51</hash>
+    <hash type="sha-256">927f60acf77ba5ef12a01592716ecf743fd21d2ede490057dda9e6d56dc408dd</hash>
+    <hash type="sha-1">8cd62d4321f5de211f9917ec954454d4c8e205d2</hash>
+    <hash type="md5">9e16fbed79d56de70910ddf4ece0bc36</hash>
+    <size>19227945</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.498.0-linux-amd64</url>
+    <version>2.498.0</version>
+  </file>
+  <file name="bosh-agent-2.498.0-windows-amd64.exe">
+    <hash type="sha-512">de4b0534648f3d5f39a32cd8cba86d19a4934da47af42c2deed2d38b7ff98ba0822218dc05942ad4f74d7ef2d3cc928713c55b79c4112164f4d11728ee521644</hash>
+    <hash type="sha-256">dbc7fe3506850428bc1821fafd31a2b11b30eb8f401c4e58c6ae7be3de037f48</hash>
+    <hash type="sha-1">28bafc18fd308669f226da3d2e2ffec5dda5791a</hash>
+    <hash type="md5">2d58602ac6b8d8aabac6acd01d2e9095</hash>
+    <size>17418752</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.498.0-windows-amd64.exe</url>
+    <version>2.498.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.498.0-windows-amd64.exe">
+    <hash type="sha-512">e5df4becee86755ccded530c9cd61986e1a29844bd38cda8a3d51f306afd0bae928f4ac3cf42c21a46439e40b6d2efcc669915a91bdbdc108e8c0f849bf7c91d</hash>
+    <hash type="sha-256">2f6555dd8ee0ff87b9b5693754e71a60feb4b4878d10aae4908dd834b04c33dd</hash>
+    <hash type="sha-1">02232178787785d8c5fdafd1f5ab445253f743d0</hash>
+    <hash type="md5">6f61d6da84ca4b7a42bf5b0401db3e1b</hash>
+    <size>7008768</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.498.0-windows-amd64.exe</url>
+    <version>2.498.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2023-01-17T15:32:52.052849618Z</published>
+</metalink>
