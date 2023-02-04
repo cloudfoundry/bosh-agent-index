@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.503.0-linux-amd64">
+    <hash type="sha-512">0f397857ad3184305304244c7648d75488507013212ca89900eac485ab253bd3db33b668ad3baf7f043532c2fda55b5f077b0413a96bb2eadfa2590ac70fbe04</hash>
+    <hash type="sha-256">26e801621c87b3f0f339c6af210353e3a7babcb74507eccbc353d180b2ddb971</hash>
+    <hash type="sha-1">4e1a78ef375d7c09759367327e5b564f7f9afc96</hash>
+    <hash type="md5">c5ba31b1f8e79105479c84343ea2cfe8</hash>
+    <size>19223874</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.503.0-linux-amd64</url>
+    <version>2.503.0</version>
+  </file>
+  <file name="bosh-agent-2.503.0-windows-amd64.exe">
+    <hash type="sha-512">0a5849753421b3141c3d1fbcc096cb92eac80058367c852434952281f1a6ad1f29d98ec33b8058c15b30d89a98e7ccc00510c0216fd1892af512adea4b2cf8a1</hash>
+    <hash type="sha-256">3d78d8c10241b567a3aedb123a1062b6180cc3362cb7c88e993dfd61eee89056</hash>
+    <hash type="sha-1">377c3c5eb131029fdd73388345dcd9c5d341464a</hash>
+    <hash type="md5">f0c09e7b5747a456e2c7c4a66a63d65e</hash>
+    <size>17418240</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.503.0-windows-amd64.exe</url>
+    <version>2.503.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.503.0-windows-amd64.exe">
+    <hash type="sha-512">d8cc39fe4c31f4022bb8400d0b71c012f72cc41e7ee4228c17c46ec0f663740bb02dbdc148c6e195f4f7b2e8afea997aa48caa463828cb23f87e1bb3a8952d42</hash>
+    <hash type="sha-256">4dbf0307535cb31e54bce3b85628798d4bc58edb0f717f5695cc86ec3af3cb86</hash>
+    <hash type="sha-1">c82badb6b371f71e7d7245f8048a0f02da505f67</hash>
+    <hash type="md5">3e5941b8837eea184742ddf93fadefe4</hash>
+    <size>7008768</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.503.0-windows-amd64.exe</url>
+    <version>2.503.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2023-02-04T13:04:25.077479883Z</published>
+</metalink>
