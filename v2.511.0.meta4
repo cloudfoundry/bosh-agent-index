@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.511.0-linux-amd64">
+    <hash type="sha-512">ad3a3799cb5549fc3f84a2b51b7266dc380d52d173fba41e8f5c13823b85908be60467b3129f6c62c44b743ccfc662cb9a66b96f1edbdd39942c6f8136fdd01b</hash>
+    <hash type="sha-256">de27f842065fae4033d30c4bc298b9876c3ed6c6b8397a4c32805c0f76fd9578</hash>
+    <hash type="sha-1">40d897121f8e0acb5459b658a5b8add5955d978b</hash>
+    <hash type="md5">c93a6cfe2346f60fb50cfc54a85a6ee0</hash>
+    <size>19325168</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.511.0-linux-amd64</url>
+    <version>2.511.0</version>
+  </file>
+  <file name="bosh-agent-2.511.0-windows-amd64.exe">
+    <hash type="sha-512">86a768e211d225655f35947f59f73df2ece8c1e3a3431aaca648d442520b9e4dd3bf76acf83ce18589306b42e5236a7f862dda4e3cf9cc89bc4ec9a0eca51995</hash>
+    <hash type="sha-256">7cf57b5b539b670752fc8c73ea3709a65b00de2c38e6646735b8ecc1460498bc</hash>
+    <hash type="sha-1">eb6519a5a75e4db07642b301ac78242a00ef1870</hash>
+    <hash type="md5">10c11cc150e5296b68e15b5ed7e2117d</hash>
+    <size>17486336</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.511.0-windows-amd64.exe</url>
+    <version>2.511.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.511.0-windows-amd64.exe">
+    <hash type="sha-512">9fb4c700be59518e10120a2f1ecd06367ca0e454e88f156f22cc97501eb7b0b04f33c8934b358310908488b8685b93883a0122f30f1db639776afe8b8f0080e1</hash>
+    <hash type="sha-256">74a40111b7eb5a907169f341f0335a12843b437a032d82e334b6e6d9d7d7396d</hash>
+    <hash type="sha-1">b74221534e2cd09d26d5959a35bdcd7e8c5a7f9d</hash>
+    <hash type="md5">1fb491b623899c3f7fa47c73fa1f22ec</hash>
+    <size>7139328</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.511.0-windows-amd64.exe</url>
+    <version>2.511.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2023-02-24T03:06:16.598075645Z</published>
+</metalink>
