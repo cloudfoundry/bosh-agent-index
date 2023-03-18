@@ -1,0 +1,13 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.268.129-linux-amd64">
+    <hash type="sha-512">6172c495306a83650853522ab8c30e8dcca4bb4575db9a753f6ef5289804b845cc8381976263ca6a6b26e677f1a40f535434535f2d1a6f0259d41dde27db050a</hash>
+    <hash type="sha-256">fd907998a7bc5aecc4bafd8cb404a1bfe01ff5c9fc18076228e5fe665ceffef7</hash>
+    <hash type="sha-1">5094d5f33062c92ab625b96752a05a2325c5b5db</hash>
+    <hash type="md5">21dfbd3b167bea4f9104ffe376b8cff3</hash>
+    <size>19526017</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.268.129-linux-amd64</url>
+    <version>2.268.129</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2023-03-18T12:49:55.898691983Z</published>
+</metalink>
