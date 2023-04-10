@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.523.0-linux-amd64">
+    <hash type="sha-512">c6fb8210f67fc44dd8680f60faf2cea9d6c54c3dc6594770cbfde20781fc003c0e596b02503ede056372dcc0a88ae4e97db1ba7a45cd4a05c1e5fa34a91326b6</hash>
+    <hash type="sha-256">5e4d6ae331516fb264f877d1e50f63f0ff1e5fb0f5723d8e97df25639209d086</hash>
+    <hash type="sha-1">37b0f1d6a8dd97b97a39c5b04ad7cf8d188029a4</hash>
+    <hash type="md5">743fd285c72bb9e9eeadacae1ff5d223</hash>
+    <size>19459132</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.523.0-linux-amd64</url>
+    <version>2.523.0</version>
+  </file>
+  <file name="bosh-agent-2.523.0-windows-amd64.exe">
+    <hash type="sha-512">543dcdebececb9e9dc0392392a2a0a5a56f4c1ac44fb537036415f87004fb1a7cfb8fb0670c4a39d40b69f1b7615fbb4f0d713d1f1ce9faa1b03b8f3cbc12845</hash>
+    <hash type="sha-256">6f0de653d325e479c59b025845beead124c3a9f30b82e7cf37b1655df7008fcb</hash>
+    <hash type="sha-1">9b85f4aa50a32b4dd2f2357218f07ba28e811b82</hash>
+    <hash type="md5">8501f0e93c9fadf14009123b66bd1538</hash>
+    <size>17751040</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.523.0-windows-amd64.exe</url>
+    <version>2.523.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.523.0-windows-amd64.exe">
+    <hash type="sha-512">c96128f61f97d8b144f02a5a219dde75b6ab2defdc8d6af4473802a21fb39cb06be367736bb785f74b6a2639d47095e379f17c865f2155b44e75fe7125dc6402</hash>
+    <hash type="sha-256">d94edc59acb78a25d35b90d3639777bf13d80c4a4035ba2cefc752af86cf0d93</hash>
+    <hash type="sha-1">890d8d4e15f613353ddcf5d2541c0eca5916980b</hash>
+    <hash type="md5">2304d22444d929d19009a1c64fc111b9</hash>
+    <size>7202816</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.523.0-windows-amd64.exe</url>
+    <version>2.523.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2023-04-10T21:45:17.614520044Z</published>
+</metalink>
