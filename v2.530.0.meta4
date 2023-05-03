@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.530.0-linux-amd64">
+    <hash type="sha-512">77208f145d628f37d97a84acf5ff276c0de07d8ec214a30ba9c52750f15742feceb5738d264965f55e38c340cef6872a56710876b4fbea2a272869d905cbea13</hash>
+    <hash type="sha-256">7f147df57d60df7087e9c3a3af82d974cb00d9a24e379e51cfc8e35c307a5cb2</hash>
+    <hash type="sha-1">e33a5ca6de482811fcfb8eec601fe509e9f81f57</hash>
+    <hash type="md5">27c59481b1d0d26ddfd3ad3e54464e80</hash>
+    <size>19466082</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.530.0-linux-amd64</url>
+    <version>2.530.0</version>
+  </file>
+  <file name="bosh-agent-2.530.0-windows-amd64.exe">
+    <hash type="sha-512">3e9a388c15705a1e96f3f36441c3cf88de46fc7dcdf384ca00b0803f7bdfdf47b70ba412b93cac173bab4a88397e602444bc45aa0bfca9a798836db8eea372ef</hash>
+    <hash type="sha-256">4783fc62ac0404f6c21a9e7180196c9b0a9a57579c4baa09bc90aaed2106c7b3</hash>
+    <hash type="sha-1">a66233aa03d2684f75d7f24e44eab9ebe133207d</hash>
+    <hash type="md5">fea6b5554c40136cf6618c5a204739a5</hash>
+    <size>17745408</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.530.0-windows-amd64.exe</url>
+    <version>2.530.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.530.0-windows-amd64.exe">
+    <hash type="sha-512">794d4f613c80d86892e44750b3c49b7ef7cec1da13df9bee89b5b188f884f74168a57b90eb97dc7c2aaab270ca3ece95b47a8e53ad7c0a0f9f3d25a2095f9d61</hash>
+    <hash type="sha-256">e5b921bbd0db1aab502bfbb167dca89a496a761d877c456f1ef15ce69a302869</hash>
+    <hash type="sha-1">78b372551a5c3ea003b3b9a06d7b4af900723175</hash>
+    <hash type="md5">6af7d10764ea274e322b8ae40b05d3c0</hash>
+    <size>7202304</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.530.0-windows-amd64.exe</url>
+    <version>2.530.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2023-05-03T20:32:09.316551092Z</published>
+</metalink>
