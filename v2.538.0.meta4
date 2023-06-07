@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.538.0-linux-amd64">
+    <hash type="sha-512">28d77548ddcc33fec4bdff9a67da745ceccc455997643ce361fbbc618cd99cf2315265b550b23a0a1b969f72030931f27fa6346fd258c7cbfa376b7866b76576</hash>
+    <hash type="sha-256">a9458fe109814c87bfa44133d64c933bd6413e9e21f15937ba6c856ceefec3f4</hash>
+    <hash type="sha-1">affe7cd4028d87109e010212a74c628181c0ec92</hash>
+    <hash type="md5">c26b57bcdd098d2313f3c8779d7704bb</hash>
+    <size>19694645</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.538.0-linux-amd64</url>
+    <version>2.538.0</version>
+  </file>
+  <file name="bosh-agent-2.538.0-windows-amd64.exe">
+    <hash type="sha-512">d42f726e8a7adc0b03354ba0c66201d1449dd8b5e4fa4ba1ce6bf4fcd5275772d14ca710202dd4f4fbd80ddfc72d86ec64fad6eb0a1e5be355f5ecd72a74bdcc</hash>
+    <hash type="sha-256">5363ab9ecd6170730a4888c2ff84e5f1f9ab0441c0fc9ead23aacc62b63ae7e8</hash>
+    <hash type="sha-1">867f9b908fba45ee0da569572456e6a0f5afb45c</hash>
+    <hash type="md5">cf03bd1e9a875d90c7a33278609bc215</hash>
+    <size>17989120</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.538.0-windows-amd64.exe</url>
+    <version>2.538.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.538.0-windows-amd64.exe">
+    <hash type="sha-512">465e0c647880974a870e5c552691a9994c99db0a8c2b68f9980d21ff88da03d0f01683b1e5c48074edfb82af5f8fe3e5627a682b9fdf298496512e86d5b14879</hash>
+    <hash type="sha-256">bebd1030b2b42632aa89672856479e0dbde241dda68521ccbe2719b23d1125b8</hash>
+    <hash type="sha-1">95fd531869dc22349dff5567a00c7c1bcea892a7</hash>
+    <hash type="md5">e4a76cc8c8402d23afad2150eeb4942a</hash>
+    <size>7201792</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.538.0-windows-amd64.exe</url>
+    <version>2.538.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2023-06-07T01:07:39.305690862Z</published>
+</metalink>
