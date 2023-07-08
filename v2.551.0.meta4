@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.551.0-linux-amd64">
+    <hash type="sha-512">0b26155c506c1c1f65bfa7495bc4f469fe24a6baad51a3a11e59e5673c2ee382f37a1e673c26bd3aa61736a9e3ad0cbf4096bf209c7c8b74185c310456ea664e</hash>
+    <hash type="sha-256">4ee9e28981569ad5a80f22d29b52a22a86f29b2d365dbc6f8220940346749d88</hash>
+    <hash type="sha-1">7b731571efd18c873abe03755b139442f3f1c503</hash>
+    <hash type="md5">bfef21ba78e5268871ba9586a7d35415</hash>
+    <size>19694411</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.551.0-linux-amd64</url>
+    <version>2.551.0</version>
+  </file>
+  <file name="bosh-agent-2.551.0-windows-amd64.exe">
+    <hash type="sha-512">5f95e2fb0558285f3b89380ae911230c36b90a375664571e82d97adfde8a0de3c73a7895acf7d8d138a981425472b2989574e54a5814d4212da4d8bb8487a2c0</hash>
+    <hash type="sha-256">e6c9c7eba415585d2d36f6d13b302a80ee84b25500e56a3413987c8959cd682f</hash>
+    <hash type="sha-1">cc432a1c5e88da958c383f4a23041492e2d513de</hash>
+    <hash type="md5">937adaa39ced0120aef878edc0be379f</hash>
+    <size>17993728</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.551.0-windows-amd64.exe</url>
+    <version>2.551.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.551.0-windows-amd64.exe">
+    <hash type="sha-512">9a6edf4b32c47b9da0925ea61e613907b1b7b72fdbc069a3960e80f294d6d43ba8d549be8b9a20648835a00913bf3623a7f251c011685b40b6c6627709bff2b1</hash>
+    <hash type="sha-256">334ceff1f13addb9c41f8ba21459bf61edb35ecdf3a285ec9ff6a90a479c28ff</hash>
+    <hash type="sha-1">7cf9f7574469543420fdd62207b781149b19f7ce</hash>
+    <hash type="md5">3fc826388780b855c600d72841333e7e</hash>
+    <size>7201792</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.551.0-windows-amd64.exe</url>
+    <version>2.551.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2023-07-08T15:08:54.321102506Z</published>
+</metalink>
