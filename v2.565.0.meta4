@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.565.0-linux-amd64">
+    <hash type="sha-512">0d83813473f865ef9a0c2fb9a7e7789c1bba20e6ac86eafe4d6d9f8fc2fac0aae537a907caedcbddde1358222c47a82669bd36241fc3c150a69d09c7b49aaab4</hash>
+    <hash type="sha-256">6bc2ce0abd0bf2d8795fb87e2fd934ab372220f074d9fa922e55c395630f63ff</hash>
+    <hash type="sha-1">d7e2ea422fd6a37c1749d1465ca45e68bb3a1c82</hash>
+    <hash type="md5">5add09e42adfcb2899dd8aa5ff48aaf5</hash>
+    <size>19700398</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.565.0-linux-amd64</url>
+    <version>2.565.0</version>
+  </file>
+  <file name="bosh-agent-2.565.0-windows-amd64.exe">
+    <hash type="sha-512">8f973db4c0e80b3d31ffe5743cd7ca1001f622c5e9568bbd135da3c2ba2a293c6d2c15afe98c94af2419355d889975b77c1193554ba565897903be2930b3ec3f</hash>
+    <hash type="sha-256">ffca39efc5744d2d9728aa9082da96e988bf6e6e62416c1499b9f82f066dc109</hash>
+    <hash type="sha-1">dc8e00094983934b770283e32f639f567dc7b0c8</hash>
+    <hash type="md5">a7ac1e9e4d8c9252e444157e4099e06c</hash>
+    <size>17986048</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.565.0-windows-amd64.exe</url>
+    <version>2.565.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.565.0-windows-amd64.exe">
+    <hash type="sha-512">84185834a9421b3c7d5257dbb11952237e8cc127dc81e2a22aee125032ad1edae8e90e13fd5dc7a8166ecdf735f0005b3dde7f16350b3ebef561d8d5463ff1c0</hash>
+    <hash type="sha-256">da1044c59264b055d1eda20dfaab5dbd34e28fe70c8314bf61fae29a98758a3d</hash>
+    <hash type="sha-1">691f02bfecbeece39e88b2b8a3c9a66b8f047871</hash>
+    <hash type="md5">6697296b4242334d7d17603cc6bdb7ed</hash>
+    <size>7202816</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.565.0-windows-amd64.exe</url>
+    <version>2.565.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2023-08-02T19:35:21.990561105Z</published>
+</metalink>
