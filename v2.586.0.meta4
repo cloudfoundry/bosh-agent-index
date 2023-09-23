@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.586.0-linux-amd64">
+    <hash type="sha-512">f77798a2790d60b860631c6544e16c7be49bf85bf285fe1e697e36661716cfe289856be90cfa35a492b3212a742aa009b27f91bf0e6b2ff915239bf1d992288b</hash>
+    <hash type="sha-256">9df33b3f448c5f5b049b2360a6ac3928d6cd77e186b34c1715fbc298a8ac63be</hash>
+    <hash type="sha-1">b051fc0cd4921bc870ea829eac77a9fe43b977c4</hash>
+    <hash type="md5">bcd3c881e92b85c3d7f0da3d3c807219</hash>
+    <size>19678809</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.586.0-linux-amd64</url>
+    <version>2.586.0</version>
+  </file>
+  <file name="bosh-agent-2.586.0-windows-amd64.exe">
+    <hash type="sha-512">ef46228dafa6e636c31ed0618146a4fc548f694d7b4daa4042613e52c15e902207414ca19befb54ab06ced5d303e3194da234707f30321c4f0c1f3651a438979</hash>
+    <hash type="sha-256">bd9efdc353c9131c17f067036121634aacc2f663e30ef74257fd135e7569a0b8</hash>
+    <hash type="sha-1">fb78a7fdf2eb1e0ca72cf7bb128d3b6f2ae27a6e</hash>
+    <hash type="md5">6bfde016488e01872f272e1ba3264daf</hash>
+    <size>18084352</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.586.0-windows-amd64.exe</url>
+    <version>2.586.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.586.0-windows-amd64.exe">
+    <hash type="sha-512">2099d037deaa2fe2c382e485abb51f8ec6954bba5d0aaae3381d65dcc773c204cfc18b0ba58f0a719b34211ffee5e708fbad429b33b1b02a59f92c49595769b5</hash>
+    <hash type="sha-256">db0a49e9982b9fbd4138b6ae429abfbdaf4f83be997fd69795f6e78a480ab077</hash>
+    <hash type="sha-1">81b5f8fde64550847ac517072dcdf1e645d357b8</hash>
+    <hash type="md5">2def96cfa19f0e5ef6333b0d88802662</hash>
+    <size>7331840</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.586.0-windows-amd64.exe</url>
+    <version>2.586.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2023-09-23T14:49:24.237311453Z</published>
+</metalink>
