@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.617.0-linux-amd64">
+    <hash type="sha-512">848f9a8eafd0a9900cc175a370bdb883fd2fc9204ab758ab732e5b5ea6ff982b5a2b0f3370fa20bdacc189a1204818aa2a6b0193fffd5516b2a575133ed7d720</hash>
+    <hash type="sha-256">397ed575a547e7a60951298f72fdedd9cbd08fb1c12c3c089b3878f4d71c094a</hash>
+    <hash type="sha-1">466762b740da08bab5911adae4ee718aee2efa6d</hash>
+    <hash type="md5">90c8f6891c680d3e1409e7029a8a8793</hash>
+    <size>20444942</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.617.0-linux-amd64</url>
+    <version>2.617.0</version>
+  </file>
+  <file name="bosh-agent-2.617.0-windows-amd64.exe">
+    <hash type="sha-512">9eecbba3f8d0a10ae04b67d52ad2dbfe92cefc6d00cfcd65e78b2f11ce6fdacbbee25af40476d2455a8603a9a8538d6461908e61b5e5c806280ae18c6fa40b9b</hash>
+    <hash type="sha-256">69faf4d086cd2f904e8d4667f7076e7242486d71efb179dfaf932f1587c4a665</hash>
+    <hash type="sha-1">48b5679a65b796b24db45ddb0d596be5750883ec</hash>
+    <hash type="md5">ff6d50f4dcc7325cc81eed0dd737d00e</hash>
+    <size>18851840</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.617.0-windows-amd64.exe</url>
+    <version>2.617.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.617.0-windows-amd64.exe">
+    <hash type="sha-512">f2f935d2772bb8157551390ec8e27392ab7a8e6298fc0549c78c1f4d6702d9d90c79884e7d53732216c36294b4a1b024b4445542defcbfe1c8078225d744b016</hash>
+    <hash type="sha-256">f02e27f9fe509a4eef2e5a584b29be49029e92a9f264151f54cd2f411db22480</hash>
+    <hash type="sha-1">3b61043139969d5e412c067a55f5db9179482f8f</hash>
+    <hash type="md5">ed580e3740d5d42fba7d7fc4c9947eb1</hash>
+    <size>7324672</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.617.0-windows-amd64.exe</url>
+    <version>2.617.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2024-01-13T01:33:34.744566507Z</published>
+</metalink>
