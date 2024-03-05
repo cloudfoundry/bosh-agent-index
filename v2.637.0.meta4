@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.637.0-linux-amd64">
+    <hash type="sha-512">a0f4bd45091780554facb685649dbea9cf4c6b8dc04b63c252eeb2acb2fa99984bc08d482cee192a6cd0c05a36ad538e5622e00da621585589d65152111a6425</hash>
+    <hash type="sha-256">945e243c30ed1c4242be07595231ed7a7859c1fcc47063adcb56a0d3bffcad39</hash>
+    <hash type="sha-1">2742b62fc28162cf24b658c8d19c9738bb2cc21c</hash>
+    <hash type="md5">a0ed7a911ead86c97cf75f59c9ed1c81</hash>
+    <size>20936781</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.637.0-linux-amd64</url>
+    <version>2.637.0</version>
+  </file>
+  <file name="bosh-agent-2.637.0-windows-amd64.exe">
+    <hash type="sha-512">01efb2a8a1b7d4627e12039934bcd998a8dedde8320b1c9259ab5aea62410eecb680056965116d52d36ba7817cd73aaa9bd669ab5082103aa3bccb371c556340</hash>
+    <hash type="sha-256">474d038a24809c58642d2e67bcd048c511cf729e2d1a0eb0af6d72753075ad08</hash>
+    <hash type="sha-1">2ef974e0e37307bb44eee98290c8a18936dd1a4a</hash>
+    <hash type="md5">9be45c0cb1c92e7a3bb4b1288ffb7efe</hash>
+    <size>19340288</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.637.0-windows-amd64.exe</url>
+    <version>2.637.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.637.0-windows-amd64.exe">
+    <hash type="sha-512">d1828853e22d9fbe93028c352e65f72ec83833504378b99ac702735c62dd8ed745b68eb223da498c1bc582ad737f0ceecb14dde146d4ff967e9ac236446d6b5b</hash>
+    <hash type="sha-256">0a0671e24833a5256ebd599d30b32c870eed3aa315351bb7ca8baeab308d9060</hash>
+    <hash type="sha-1">6e913382507483d05174ae33f88b26948c326447</hash>
+    <hash type="md5">45157c00bfde591cfa1232a3f8d21596</hash>
+    <size>7589888</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.637.0-windows-amd64.exe</url>
+    <version>2.637.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2024-03-05T01:33:42.637959341Z</published>
+</metalink>
