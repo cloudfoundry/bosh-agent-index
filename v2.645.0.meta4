@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.645.0-linux-amd64">
+    <hash type="sha-512">3495fda96c301f9e552e1cd0052497bb1fb5b2fadb1c7b9ccbe0cf2ea172cc074a390f3932f31ea154d41ac98088d435cdae600e5da6f3ea5ea85933ec81b11f</hash>
+    <hash type="sha-256">f9b49b7256f9bac58955135e71c4ad952d02d94d0f1554164dfdd292d704669c</hash>
+    <hash type="sha-1">60859532e5ee4ff548e7f672e81b96dc5459598e</hash>
+    <hash type="md5">c401f11980840182865126df28621a75</hash>
+    <size>21242186</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.645.0-linux-amd64</url>
+    <version>2.645.0</version>
+  </file>
+  <file name="bosh-agent-2.645.0-windows-amd64.exe">
+    <hash type="sha-512">c1ee904dd62d61bd5b1261a72631fab0fe9550738c9a0e89292879dd5d64d8b0fb18cb4aa89a63ef6bda47200bc0c3033bd3649c93eecd64394a62729650d5b5</hash>
+    <hash type="sha-256">4ec34df24fc91140f38ce88268df182d0c2d0c85a51950b7c35eedd19caacf60</hash>
+    <hash type="sha-1">eeff8ae8d0a68f89722ebf6314f1deb8895007f4</hash>
+    <hash type="md5">6a1a0ab6e5200bf16be32344d01e155e</hash>
+    <size>19632640</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.645.0-windows-amd64.exe</url>
+    <version>2.645.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.645.0-windows-amd64.exe">
+    <hash type="sha-512">0959651fd5207c6d6a3de8ce9b4f02b2adc9807c00312cafbe85a5105adcbf506f694a8fe6582f3a96cc70c763ce5f92f5d7da2f5cbf31d3f69081b31469ff75</hash>
+    <hash type="sha-256">ddf8675819b819f97537fa3daf0097305dbe02a8bde52e057f3504e68b944318</hash>
+    <hash type="sha-1">a531c3cdfd812a66d848bc5592d76e1ab26431a2</hash>
+    <hash type="md5">7932735ae36ed4e2ea871977c0051e62</hash>
+    <size>7590912</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.645.0-windows-amd64.exe</url>
+    <version>2.645.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2024-04-01T20:18:10.184574141Z</published>
+</metalink>
