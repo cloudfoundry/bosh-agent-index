@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.676.0-linux-amd64">
+    <hash type="sha-512">af87a18c588377bbdb37f1fc603965de9c7c837f00900eaec893d6a50eb3cccd88f9efba83f3069ac317aa6a31084eddf3d68bf23c0f67a46474ba5c5c11be42</hash>
+    <hash type="sha-256">90c521f81cea0093c4d9d24a78fe685a60a80ec7d3c3e632c4b193a23f292b75</hash>
+    <hash type="sha-1">dfef8ff85e83a40317553992232e1d73d0753e27</hash>
+    <hash type="md5">9acd3524ac78755cb0b94394ff5fcc80</hash>
+    <size>21274568</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.676.0-linux-amd64</url>
+    <version>2.676.0</version>
+  </file>
+  <file name="bosh-agent-2.676.0-windows-amd64.exe">
+    <hash type="sha-512">a2723a258aab51e8e80da4e615e6981501b43392741982e7115e019b52ee2b1aefce9f6ca393a8299374fd500ee378762d3859f68df791c13fa96574e5d87e55</hash>
+    <hash type="sha-256">b75812b2cf56f20be2924d55d256fdd66faec8e0bc23f6c1bfafd7cd6320bef0</hash>
+    <hash type="sha-1">423137dd8b3b24881fdc63588c2fe82f9acc731a</hash>
+    <hash type="md5">ffaf2047057a95d710726a8e66c8aefe</hash>
+    <size>19681280</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.676.0-windows-amd64.exe</url>
+    <version>2.676.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.676.0-windows-amd64.exe">
+    <hash type="sha-512">2269607472901421b58cafef16faa10cdd066bb3191c7e47ba27e68063cef7ef75add4ee5dc5a0b558c23d2a1b82e21caea160bf98fdda1e23e90b2f476639d9</hash>
+    <hash type="sha-256">f0afdedfb4f0b8eb9991a95d3f684c3d2bf4796cf5767646204e01d8118ed591</hash>
+    <hash type="sha-1">32abfc01278fe15ec413ee2d16dbd5664ac60210</hash>
+    <hash type="md5">2491a855083a8e70a489cf07e39a662f</hash>
+    <size>7593472</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.676.0-windows-amd64.exe</url>
+    <version>2.676.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2024-08-10T18:39:37.956532416Z</published>
+</metalink>
