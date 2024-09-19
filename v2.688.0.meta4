@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.688.0-linux-amd64">
+    <hash type="sha-512">3ad2324bd338ea93653c497a2d00ec461d7885845f5ac015907c0a0851cea923cb8235526e636838758928bc9cfbbb7d4d988da71da33212c5fef09d67259969</hash>
+    <hash type="sha-256">77e192968c9f78adf500297c5ea6ae47aea4352f58005e16ae1eb419b65db7c0</hash>
+    <hash type="sha-1">5106b14e2d36aa6e6d8364d5652721a4b4330949</hash>
+    <hash type="md5">d1670410a30556d5550610fe6d56051a</hash>
+    <size>21997446</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.688.0-linux-amd64</url>
+    <version>2.688.0</version>
+  </file>
+  <file name="bosh-agent-2.688.0-windows-amd64.exe">
+    <hash type="sha-512">5653f4e123d498e914f661e58d012f84e27465f69e03e0ffa50b053c2d7fbc137bc1dbe27e3246c9b8573c6a4640e1a3d299e1721a7cad0d2acbbee4794bfc4c</hash>
+    <hash type="sha-256">4f4c9969b1693d87b5a66692f48515cad42236bc0519caa5de8aede8815b38a6</hash>
+    <hash type="sha-1">0f139d683cee7c0b540e61b42d46e8c2f14aa196</hash>
+    <hash type="md5">f20b4202db1cbda86f299ff93073f811</hash>
+    <size>20413440</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.688.0-windows-amd64.exe</url>
+    <version>2.688.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.688.0-windows-amd64.exe">
+    <hash type="sha-512">c1a15ee0b775ce95e56ab9e3dafc5c3f972d58f6585513d36befdf7ba2ff5c328b5797c2cbc2ffe767fe31fcccab884078bb22152cb31d61ea04ed36a6e9c254</hash>
+    <hash type="sha-256">708aae5f3071260648adf3a66dcc31d6283bfb24beaff37d9477b0c71b751a55</hash>
+    <hash type="sha-1">7dd79a11f41d954f693f4b70544d574824edc6a3</hash>
+    <hash type="md5">9b52ae6a6a30b98e7678196bd70289d8</hash>
+    <size>8101888</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.688.0-windows-amd64.exe</url>
+    <version>2.688.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2024-09-19T23:51:16.283212426Z</published>
+</metalink>
