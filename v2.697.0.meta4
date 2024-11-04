@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.697.0-linux-amd64">
+    <hash type="sha-512">22a087dacb1a7cc012df3f13d830bd7d1757d11bea1925304065bb774655ac8bc3a924c6ac94ee771ce8f83ac2065a3cc6ebb5a4ee5cb8d33616aba42347050a</hash>
+    <hash type="sha-256">d32b4d99aea698aa02e4eb12ccb30843177ca6c0088ce44eb92d7fd2bd9e7a7e</hash>
+    <hash type="sha-1">abedb4a5632820f1684c82e761b806f716635e48</hash>
+    <hash type="md5">2f395c16816782b171a201e5254c9b55</hash>
+    <size>22000460</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.697.0-linux-amd64</url>
+    <version>2.697.0</version>
+  </file>
+  <file name="bosh-agent-2.697.0-windows-amd64.exe">
+    <hash type="sha-512">958bca15fccc623ac7236bab7a2ef7d3f05c6543d30d26b9c4396c4121304dcf478560dde58a9717cab788d6951c54fca7dd4b75711c5b794693bace7dbc4f7e</hash>
+    <hash type="sha-256">a226e0abfe89e2cdcf0b2893fb0a7ebd6f870f6baccedc7ef204ead1d727138d</hash>
+    <hash type="sha-1">7a8d6b976892698c52bb616ce3ee728cbfec9507</hash>
+    <hash type="md5">bebf5f0ab974a392f4bd427e7b60ac7b</hash>
+    <size>20414464</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.697.0-windows-amd64.exe</url>
+    <version>2.697.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.697.0-windows-amd64.exe">
+    <hash type="sha-512">cfb0c273c3def3f8eb6bef1c6e5bff89b8b852498e9889e3efd122e5abd9e58408d3c39dab6e110973b1cad346c83f82eb22e3b6f472c47018724f04c7eee847</hash>
+    <hash type="sha-256">4b8a741e2d52f26b0feaad92d0c0f0ee8e4ef5eab6966ca58bc318154bb80b83</hash>
+    <hash type="sha-1">74ca0f68596245731c340478ffd16b1e74eb5c52</hash>
+    <hash type="md5">f207b720a06cd9a813a1d85d9819f4aa</hash>
+    <size>8102400</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.697.0-windows-amd64.exe</url>
+    <version>2.697.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2024-11-04T17:29:44.55895096Z</published>
+</metalink>
