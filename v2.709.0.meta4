@@ -1,0 +1,31 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-agent-2.709.0-linux-amd64">
+    <hash type="sha-512">6649561fa00673cf914e7c8a9a9e409fbbed82bfffbd84ae33034882a47e7f7a27134ce75a9da587b7084eb430ed790249796542436ca9f5c9042b8c0fa09e61</hash>
+    <hash type="sha-256">2ad88e44fca8386b527da982206cacfc731b13f03530edf1ae9700a81f02a39e</hash>
+    <hash type="sha-1">2b4753ab0097a3b5441b996f2efff3c7ff07e9b1</hash>
+    <hash type="md5">78242a6636179d33423fbaa7119f703f</hash>
+    <size>22044495</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.709.0-linux-amd64</url>
+    <version>2.709.0</version>
+  </file>
+  <file name="bosh-agent-2.709.0-windows-amd64.exe">
+    <hash type="sha-512">045c43233c2e79db1281bc52f04c89b496b45c80fae28dcf39f960a760ed7206811859743aa3b8916544bef472c4f6b0fe8e48df872af44db4c4916c5276db67</hash>
+    <hash type="sha-256">0d911e0dca1f047a7a4fd5653cafa7232e28a0f063a5d3e5caa90d51182f02c1</hash>
+    <hash type="sha-1">b26288b15bc8758c8492848fc0281c3834b444ad</hash>
+    <hash type="md5">98b1fbbb6c8fc7520aea94bb3ee4d811</hash>
+    <size>20472320</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-2.709.0-windows-amd64.exe</url>
+    <version>2.709.0</version>
+  </file>
+  <file name="bosh-agent-pipe-2.709.0-windows-amd64.exe">
+    <hash type="sha-512">09cbb22e526ff1a1cce715f5c5f19d80999b279b8a219fd82f65eb2ba37756bfd43a4590881eb0a9d5ff5b8e93cdbb78e0e6bc4362da4d2028468df2fc693293</hash>
+    <hash type="sha-256">075c56d95bde054be33daaef9a3b8f44ba2bb5ed09aad1d9ea9089e654260c90</hash>
+    <hash type="sha-1">81bf489f2e0a808e9c5f814da536541c42e435d7</hash>
+    <hash type="md5">40e236b19976416d1a41595f097e00b4</hash>
+    <size>8108032</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-agent-binaries/bosh-agent-pipe-2.709.0-windows-amd64.exe</url>
+    <version>2.709.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2024-12-20T01:32:05.058018825Z</published>
+</metalink>
